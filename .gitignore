@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.tif
+*.zip
+tide_models/
+ge_snapshots/
+GE_*.jpg
+.DS_Store

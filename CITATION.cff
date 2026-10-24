@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Kerachut shoreline: beach change at a green turtle nesting beach from free satellite imagery"
+authors:
+  - family-names: "N. Rosely"
+    given-names: "Nik Fadzly"
+    affiliation: "School of Biological Sciences, Universiti Sains Malaysia"
+    orcid: "https://orcid.org/0000-0002-6282-8423"
+date-released: 2026-10-24
+license: MIT
+keywords:
+  - shoreline change
+  - sea turtle nesting
+  - Google Earth Engine
+  - Landsat
+  - Sentinel-2
+  - Malaysia

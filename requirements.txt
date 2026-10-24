@@ -1,0 +1,13 @@
+earthengine-api
+geemap
+rasterio
+scikit-image
+shapely
+scipy
+numpy
+pandas
+matplotlib
+pyproj
+Pillow
+eo-tides
+pyTMD
