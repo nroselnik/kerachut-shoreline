@@ -39,6 +39,12 @@ docs/
 5. **Vegetation line:** 19 Google Earth historical images, georeferenced to Sentinel-2 by water-mask matching.
 6. **Statistics:** linear regression rates per transect and per section (south T2 to T10, central T11 to T19, north T20 to T26), plus a rotation index (north minus south).
 
+## Open the notebooks in Colab
+
+- [01 Imagery check and export](https://colab.research.google.com/github/nroselnik/kerachut-shoreline/blob/main/notebooks/01_satellite_check_and_export.ipynb)
+- [02 Shoreline change, best scene per year](https://colab.research.google.com/github/nroselnik/kerachut-shoreline/blob/main/notebooks/02_shoreline_change_best_scenes.ipynb)
+- [03 Tide-corrected analysis, all clear scenes](https://colab.research.google.com/github/nroselnik/kerachut-shoreline/blob/main/notebooks/03_tide_corrected_all_scenes.ipynb)
+
 ## Getting started
 
 New to Earth Engine? Start with [docs/GEE_tutorial.md](docs/GEE_tutorial.md).
